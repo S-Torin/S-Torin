@@ -1,7 +1,7 @@
 ## Hi, here 👋
-- 🔭 I'm pursuing a master's degree at SEU.
+<!-- - 🔭 I'm pursuing a master's degree at SEU. -->
 - 🌱 I'm currently working on 3DGS and SLAM
-- 🎓 I'm actively applying for Ph.D. programs to further explore Robotics.
+<!--- 🎓 I'm actively applying for Ph.D. programs to further explore Robotics.-->
 ###
 
 <div align="center">
